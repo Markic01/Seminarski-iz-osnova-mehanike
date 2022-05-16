@@ -31,7 +31,7 @@ X=[0]
 
 i=0
 
-while Y[-1]>=0: #videcu za uslov posle
+while Y[-1]>=0:
 
     if i>=len(force):
         Ax.append(0)
